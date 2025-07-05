@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: yuklid-update-service
+
+aws:
+  s3:
+    access-key: ${AWS_ACCESS_KEY_ID}
+    secret-key: ${AWS_SECRET_ACCESS_KEY}
+    bucket-name: ${AWS_S3_BUCKET_NAME}
+    endpoint-url: ${AWS_S3_ENDPOINT_URL}
+    region: ${AWS_REGION}
