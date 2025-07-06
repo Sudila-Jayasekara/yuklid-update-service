@@ -35,6 +35,5 @@ build/
 
 ### mac ###
 .DS_Store
-
-
+.github/workflows/mvn-build-docker-push.yml
 application-ci.yml
