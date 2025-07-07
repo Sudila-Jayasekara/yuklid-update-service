@@ -37,3 +37,4 @@ build/
 .DS_Store
 .github/workflows/mvn-build-docker-push.yml
 application-ci.yml
+.flattened-pom.xml
